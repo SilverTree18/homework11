@@ -1,0 +1,15 @@
+{
+  "name": "11-homework",
+  "version": "1.0.0",
+  "description": "Homework 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shannon Hart",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
